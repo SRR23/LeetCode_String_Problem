@@ -66,7 +66,12 @@ int main()
     cout.tie(NULL);
 
     string s1 = "leetcode";
-    string s2 = "leeto";
+    string s2 = "leet";
     cout << strStr(s1, s2) << '\n';
     return 0;
 }
+
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/SRR23/LeetCode_String_Problem.git
+// git push -u origin main
