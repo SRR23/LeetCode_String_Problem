@@ -1,3 +1,12 @@
+
+// Given n strings, each of length 2, consisting of lowercase Latin alphabet
+// letters from 'a' to 'k', output the number of pairs of indices (i,j) such
+// that i<j and the i-th string and the j-th string differ in exactly
+// one position.
+// In other words, count the number of pairs (i,j) (i<j) such that the i-th
+// string and the j-th string have exactly one position p (1≤p≤2) such that
+// sip≠sjp.
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
