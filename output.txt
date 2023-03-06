@@ -1,10 +1,5 @@
-YES
-*b
-YES
-*code*
-NO
-YES
-*a
-YES
-abcd
-NO
+5
+0
+1
+3
+2
