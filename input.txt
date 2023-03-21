@@ -1,20 +1,9 @@
+4
+7
+ab bb ba aa ba
+7
+ab ba aa ab ba
 3
+aa
 5
-abab
-ab
-abc
-abacb
-c
-3
-x
-xx
-xxx
-8
-codeforc
-es
-codes
-cod
-forc
-forces
-e
-code
+bb ab bb
